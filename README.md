@@ -2,7 +2,7 @@
 metas 2023
 
 
-#Metas
+# Metas
 
 1.viajar
 
@@ -11,10 +11,10 @@ metas 2023
 3.ser mas social 
 
 
-##Retos
+## Retos
 
 
-1. me cuesta mucho ahorrar dinero
+1.me cuesta mucho ahorrar dinero
 
 2.me da mucha flojera y no tengo casi condiocion fisica
 
